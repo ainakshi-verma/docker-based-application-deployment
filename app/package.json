@@ -1,0 +1,12 @@
+{
+  "name": "docker-demo-app",
+  "version": "1.0.0",
+  "description": "Docker based application deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
